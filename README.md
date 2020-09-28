@@ -1,7 +1,7 @@
 ## Hey everyone!
 
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50"> I am Afonso Guimarães
-- Currently a student at MsC
+I everyone, I'm Afonso Guimarães and currently studying Computers and Telematics Engineering Student at University of Aveiro. Interested in Mobile Development having some experience in **Android** and **Flutter** and looking to learn even more.
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 

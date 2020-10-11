@@ -7,7 +7,7 @@ Interested mostly in Mobile Development having some experience in **Android** an
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ashraf = {
+const afonsoguima = {
     askMeAbout: ["app dev", "web dev", "tech", "data"],
     technologies:{
         backEnd: ["java", "python", "c++"],

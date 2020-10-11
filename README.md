@@ -1,6 +1,6 @@
 ## Hey everyone!
 
-I everyone, I'm **Afonso Guimarães** a student in MSc Computers and Telematics Engineering at University of Aveiro. My past work involves projects in a plethora of subjects, the ones I enjoyed the most include **Computer Vision**, **Mobile Development**, **Databases**, **rone Automation**, **Data Gathering** through **IoT** devices and **Reconfigural Computing** using FPGAs and their imense possibilities. I've also 
+I'm **Afonso Guimarães** a student in MSc Computers and Telematics Engineering at University of Aveiro. My past work involves projects in a plethora of subjects, the ones I enjoyed the most include **Computer Vision**, **Mobile Development**, **Databases**, **rone Automation**, **Data Gathering** through **IoT** devices and **Reconfigural Computing** using FPGAs and their imense possibilities. I've also 
 
 Interested mostly in Mobile Development having some experience in **Android** and **Flutter** and looking to learn even more. 
 

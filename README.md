@@ -12,9 +12,9 @@ const afonsoguima = {
     technologies:{
         backEnd: ["java", "python", "c++"],
         mobileApp: ["flutter","android"],
-        database: ["mySql"],
+        database: ["mySql", "mongodb", "firestore"],
         devOps: ["Jenkins"],
-        tools: ["git", "terminal"
+        tools: ["git", "unix"]
         misc: ["Firebase"]
     },
 }

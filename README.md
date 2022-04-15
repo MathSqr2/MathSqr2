@@ -1,6 +1,6 @@
 ## Hey everyone!
 
-I'm **Afonso Guimarães** a student in MSc Computers and Telematics Engineering at University of Aveiro. Mostly interesed in Mobile Development having some experience in **Android** and **Flutter** and looking to learn even more. 
+I'm **Afonso Guimarães** a student in MSc Computers and Telematics Engineering at University of Aveiro. Mostly interested in Mobile Development having some experience in **Android** and **Flutter** and looking to learn even more. 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
